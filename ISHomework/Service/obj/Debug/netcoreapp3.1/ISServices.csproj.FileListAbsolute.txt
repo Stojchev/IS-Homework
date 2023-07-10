@@ -1,0 +1,15 @@
+C:\Users\angel\Desktop\IS\ISHomework\Service\bin\Debug\netcoreapp3.1\ISServices.deps.json
+C:\Users\angel\Desktop\IS\ISHomework\Service\bin\Debug\netcoreapp3.1\ISServices.dll
+C:\Users\angel\Desktop\IS\ISHomework\Service\bin\Debug\netcoreapp3.1\ISServices.pdb
+C:\Users\angel\Desktop\IS\ISHomework\Service\bin\Debug\netcoreapp3.1\ISDomain.dll
+C:\Users\angel\Desktop\IS\ISHomework\Service\bin\Debug\netcoreapp3.1\ISRepository.dll
+C:\Users\angel\Desktop\IS\ISHomework\Service\bin\Debug\netcoreapp3.1\ISDomain.pdb
+C:\Users\angel\Desktop\IS\ISHomework\Service\bin\Debug\netcoreapp3.1\ISRepository.pdb
+C:\Users\angel\Desktop\IS\ISHomework\Service\obj\Debug\netcoreapp3.1\ISServices.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\IS\ISHomework\Service\obj\Debug\netcoreapp3.1\ISServices.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\IS\ISHomework\Service\obj\Debug\netcoreapp3.1\ISServices.AssemblyInfo.cs
+C:\Users\angel\Desktop\IS\ISHomework\Service\obj\Debug\netcoreapp3.1\ISServices.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\IS\ISHomework\Service\obj\Debug\netcoreapp3.1\ISServices.csproj.CopyComplete
+C:\Users\angel\Desktop\IS\ISHomework\Service\obj\Debug\netcoreapp3.1\ISServices.dll
+C:\Users\angel\Desktop\IS\ISHomework\Service\obj\Debug\netcoreapp3.1\ISServices.pdb
+C:\Users\angel\Desktop\IS\ISHomework\Service\obj\Debug\netcoreapp3.1\ISServices.GeneratedMSBuildEditorConfig.editorconfig

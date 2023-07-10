@@ -1,0 +1,16 @@
+C:\Users\angel\Desktop\IS\ISHomework\Repository\bin\Debug\netcoreapp3.1\ISRepository.deps.json
+C:\Users\angel\Desktop\IS\ISHomework\Repository\bin\Debug\netcoreapp3.1\ISRepository.runtimeconfig.json
+C:\Users\angel\Desktop\IS\ISHomework\Repository\bin\Debug\netcoreapp3.1\ISRepository.runtimeconfig.dev.json
+C:\Users\angel\Desktop\IS\ISHomework\Repository\bin\Debug\netcoreapp3.1\ISRepository.dll
+C:\Users\angel\Desktop\IS\ISHomework\Repository\bin\Debug\netcoreapp3.1\ISRepository.pdb
+C:\Users\angel\Desktop\IS\ISHomework\Repository\bin\Debug\netcoreapp3.1\ISDomain.dll
+C:\Users\angel\Desktop\IS\ISHomework\Repository\bin\Debug\netcoreapp3.1\ISDomain.pdb
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.csproj.AssemblyReference.cache
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.AssemblyInfoInputs.cache
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.AssemblyInfo.cs
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.csproj.CoreCompileInputs.cache
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.csproj.CopyComplete
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.dll
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.pdb
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.genruntimeconfig.cache
+C:\Users\angel\Desktop\IS\ISHomework\Repository\obj\Debug\netcoreapp3.1\ISRepository.GeneratedMSBuildEditorConfig.editorconfig
